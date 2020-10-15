@@ -1,6 +1,6 @@
 # Korona - percento
 
-![Example output chart from 28 September](chart.png)
+![Example output chart from 15 October](chart.png)
 
 (For English scroll down)
 
